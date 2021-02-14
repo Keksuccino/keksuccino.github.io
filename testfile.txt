@@ -16,14 +16,17 @@ Some of its key features are:<br>
 
 ![](preview/main.gif)
 
+
 ## DOWNLOAD
 
 FancyMenu is available on [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fancymenu)!
+
 
 ## Licensing
 
 FancyMenu is licensed under GPLv3.<br>
 See LICENSE.md for more information.
+
 
 ## Copyright
 
