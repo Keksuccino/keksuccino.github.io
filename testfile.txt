@@ -1,7 +1,5 @@
-## %playername% test 2
-§r 
+## %playername% test 3
 FancyMenu is a forge-based minecraft mod to customize ingame menus in many ways.
-§r 
 A special thing about FancyMenu is, that it's not limited to the basic minecraft menus like the options or inventory menu. %playeruuid%
 With FancyMenu, it's possible to customize nearly every default-looking menu in the game. Even menus from other mods.
 §r 
