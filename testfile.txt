@@ -1,10 +1,10 @@
 ## %playername% test
- 
+§r 
 FancyMenu is a forge-based minecraft mod to customize ingame menus in many ways.
- 
+§r 
 A special thing about FancyMenu is, that it's not limited to the basic minecraft menus like the options or inventory menu. %playeruuid%
 With FancyMenu, it's possible to customize nearly every default-looking menu in the game. Even menus from other mods.
- 
+§r 
 Some of its key features are:
 - Hide, move, resize and rename buttons
 - Create buttons to open links or send messages
@@ -13,23 +13,24 @@ Some of its key features are:
 - Add textures and animations to menus
 - Add audio to menus and animations
 - Play animations as game intro before the main menu loads
- 
+§r 
 ## DOWNLOAD
- 
+§r 
 FancyMenu is available on [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fancymenu)!
- 
- 
+§r 
+§r 
 ## Licensing
- 
+§r 
 FancyMenu is licensed under GPLv3.
 See LICENSE.md for more information.
- 
- 
+§r 
+§r 
 ## Copyright
- 
+§r 
 - FancyMenu
 Copyright © 2020 Keksuccino.
- 
+§r 
 - Minecraft Cave Animation
 Copyright © Mojang AB.
- 
+§r  
+§r 
