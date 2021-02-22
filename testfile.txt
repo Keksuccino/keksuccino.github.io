@@ -1,4 +1,4 @@
-## %playername%
+## %playername% test
  
 FancyMenu is a forge-based minecraft mod to customize ingame menus in many ways.
  
