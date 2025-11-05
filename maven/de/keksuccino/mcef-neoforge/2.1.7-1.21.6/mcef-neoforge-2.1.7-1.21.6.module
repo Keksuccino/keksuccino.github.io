@@ -1,0 +1,100 @@
+﻿{
+    "formatVersion":  "1.1",
+    "component":  {
+                      "group":  "de.keksuccino",
+                      "module":  "mcef-neoforge",
+                      "version":  "2.1.7-1.21.6",
+                      "attributes":  {
+                                         "org.gradle.status":  "release"
+                                     }
+                  },
+    "createdBy":  {
+                      "gradle":  {
+                                     "version":  "8.14"
+                                 }
+                  },
+    "variants":  [
+                     {
+                         "name":  "apiElements",
+                         "attributes":  {
+                                            "org.gradle.category":  "library",
+                                            "org.gradle.dependency.bundling":  "external",
+                                            "org.gradle.jvm.version":  21,
+                                            "org.gradle.libraryelements":  "jar",
+                                            "org.gradle.usage":  "java-api"
+                                        },
+                         "files":  [
+                                       {
+                                           "name":  "mcef-neoforge-2.1.7-1.21.6.jar",
+                                           "url":  "mcef-neoforge-2.1.7-1.21.6.jar",
+                                           "size":  220402,
+                                           "sha512":  "f55d3046c7bbc5e49a235cb6404d10c4b469ad64d867795620cf9a920af448ba9ccf424c4161dadbb35d44b3ca499fdfa62cae5694135f731275344cfdb761d6",
+                                           "sha256":  "09b3562c4e94cf5a0445b70c02069ea7bbcb4ba92dd1ddd9a2bda1ba777b0ce7",
+                                           "sha1":  "d1cb92a7ede0bfc25ac8bf5a9b0ca44c4983f15f",
+                                           "md5":  "521b3cb65344f09072a21498d70258c5"
+                                       }
+                                   ]
+                     },
+                     {
+                         "name":  "runtimeElements",
+                         "attributes":  {
+                                            "org.gradle.category":  "library",
+                                            "org.gradle.dependency.bundling":  "external",
+                                            "org.gradle.jvm.version":  21,
+                                            "org.gradle.libraryelements":  "jar",
+                                            "org.gradle.usage":  "java-runtime"
+                                        },
+                         "files":  [
+                                       {
+                                           "name":  "mcef-neoforge-2.1.7-1.21.6.jar",
+                                           "url":  "mcef-neoforge-2.1.7-1.21.6.jar",
+                                           "size":  220402,
+                                           "sha512":  "f55d3046c7bbc5e49a235cb6404d10c4b469ad64d867795620cf9a920af448ba9ccf424c4161dadbb35d44b3ca499fdfa62cae5694135f731275344cfdb761d6",
+                                           "sha256":  "09b3562c4e94cf5a0445b70c02069ea7bbcb4ba92dd1ddd9a2bda1ba777b0ce7",
+                                           "sha1":  "d1cb92a7ede0bfc25ac8bf5a9b0ca44c4983f15f",
+                                           "md5":  "521b3cb65344f09072a21498d70258c5"
+                                       }
+                                   ]
+                     },
+                     {
+                         "name":  "shadowRuntimeElements",
+                         "attributes":  {
+                                            "org.gradle.category":  "library",
+                                            "org.gradle.dependency.bundling":  "shadowed",
+                                            "org.gradle.libraryelements":  "jar",
+                                            "org.gradle.usage":  "java-runtime"
+                                        },
+                         "files":  [
+                                       {
+                                           "name":  "mcef-neoforge-2.1.7-1.21.6.jar",
+                                           "url":  "mcef-neoforge-2.1.7-1.21.6.jar",
+                                           "size":  220402,
+                                           "sha512":  "3a89f4364ad843815b6748566259c365d98c0e0ad2868b64f8051af096ff4233bc23cb4f6711bd6f47c9297fe67e31194907c8bd9bf5362825683fbd63016177",
+                                           "sha256":  "84b4a7c8dc5a6ebf4a9a45fd41ca2e09442871e8e62b6efb2a9c3828b786c5fc",
+                                           "sha1":  "9e5ce32f0d2ecf66d5eecba556138e059bc8874e",
+                                           "md5":  "614a2f8466506b95287b2a5869ec4e7e"
+                                       }
+                                   ]
+                     },
+                     {
+                         "name":  "sourcesElements",
+                         "attributes":  {
+                                            "org.gradle.category":  "documentation",
+                                            "org.gradle.dependency.bundling":  "external",
+                                            "org.gradle.docstype":  "sources",
+                                            "org.gradle.usage":  "java-runtime"
+                                        },
+                         "files":  [
+                                       {
+                                           "name":  "mcef-neoforge-2.1.7-1.21.6-sources.jar",
+                                           "url":  "mcef-neoforge-2.1.7-1.21.6-sources.jar",
+                                           "size":  184349,
+                                           "sha512":  "1c7a3d6792cb3df02c61d30dbe629cebf3e46f85ebb14925acb830edb3ddc1778bfc1c94ba82a5f85c5eebf5688c183612ea57a7e4247395a24149f1bb51ec2e",
+                                           "sha256":  "39100e469fd00cd787af22d8884d40d1aed715c9498f010eb1102b57be134cf5",
+                                           "sha1":  "31ef84fdc89c2590830a325b48398f191e7ed72c",
+                                           "md5":  "44196aa3be11db320f6b644a040ad701"
+                                       }
+                                   ]
+                     }
+                 ]
+}

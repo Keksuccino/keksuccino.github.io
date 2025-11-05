@@ -1,0 +1,100 @@
+﻿{
+    "formatVersion":  "1.1",
+    "component":  {
+                      "group":  "de.keksuccino",
+                      "module":  "mcef-fabric",
+                      "version":  "2.1.7-1.21.6",
+                      "attributes":  {
+                                         "org.gradle.status":  "release"
+                                     }
+                  },
+    "createdBy":  {
+                      "gradle":  {
+                                     "version":  "8.14"
+                                 }
+                  },
+    "variants":  [
+                     {
+                         "name":  "apiElements",
+                         "attributes":  {
+                                            "org.gradle.category":  "library",
+                                            "org.gradle.dependency.bundling":  "external",
+                                            "org.gradle.jvm.version":  21,
+                                            "org.gradle.libraryelements":  "jar",
+                                            "org.gradle.usage":  "java-api"
+                                        },
+                         "files":  [
+                                       {
+                                           "name":  "mcef-fabric-2.1.7-1.21.6.jar",
+                                           "url":  "mcef-fabric-2.1.7-1.21.6.jar",
+                                           "size":  227059,
+                                           "sha512":  "f3a05583b97106a6e4ef87ac8f1dd7359cf8dc1eada655eeb8ee070f1b3b3d0c6fa2963f9af69f4600d7029bf6a93fc91ac4c1eb49407ca08f3a61b292e7e4fa",
+                                           "sha256":  "d89179994a15b79589326d1be24ec89518b25fbb5853a3c4c5b6579db74e0e7b",
+                                           "sha1":  "0f29e72ca07a8c091853a602971447ccedefe69c",
+                                           "md5":  "c57c5a0f33e152ec4f1e32de30eb213b"
+                                       }
+                                   ]
+                     },
+                     {
+                         "name":  "runtimeElements",
+                         "attributes":  {
+                                            "org.gradle.category":  "library",
+                                            "org.gradle.dependency.bundling":  "external",
+                                            "org.gradle.jvm.version":  21,
+                                            "org.gradle.libraryelements":  "jar",
+                                            "org.gradle.usage":  "java-runtime"
+                                        },
+                         "files":  [
+                                       {
+                                           "name":  "mcef-fabric-2.1.7-1.21.6.jar",
+                                           "url":  "mcef-fabric-2.1.7-1.21.6.jar",
+                                           "size":  227059,
+                                           "sha512":  "f3a05583b97106a6e4ef87ac8f1dd7359cf8dc1eada655eeb8ee070f1b3b3d0c6fa2963f9af69f4600d7029bf6a93fc91ac4c1eb49407ca08f3a61b292e7e4fa",
+                                           "sha256":  "d89179994a15b79589326d1be24ec89518b25fbb5853a3c4c5b6579db74e0e7b",
+                                           "sha1":  "0f29e72ca07a8c091853a602971447ccedefe69c",
+                                           "md5":  "c57c5a0f33e152ec4f1e32de30eb213b"
+                                       }
+                                   ]
+                     },
+                     {
+                         "name":  "shadowRuntimeElements",
+                         "attributes":  {
+                                            "org.gradle.category":  "library",
+                                            "org.gradle.dependency.bundling":  "shadowed",
+                                            "org.gradle.libraryelements":  "jar",
+                                            "org.gradle.usage":  "java-runtime"
+                                        },
+                         "files":  [
+                                       {
+                                           "name":  "mcef-fabric-2.1.7-1.21.6-shadow-dev.jar",
+                                           "url":  "mcef-fabric-2.1.7-1.21.6-shadow-dev.jar",
+                                           "size":  220557,
+                                           "sha512":  "a0ca7a842c8f70c64279fe46953b38bb96fabed4e27e8ea8cf1b4beb3961d2265d1b5d3e7da10ba5395f91a563ca87732760fe0e2b4ccda2a4f8683e27580306",
+                                           "sha256":  "74d12ca8dc35a82100537ecbbaf93e5e96bee079067cef6a0117e19f16571cb8",
+                                           "sha1":  "951b425ee5beb776bcb33acb0f0d72b39328e7ae",
+                                           "md5":  "2a90afc05d46616b9088ad1c2e308de1"
+                                       }
+                                   ]
+                     },
+                     {
+                         "name":  "sourcesElements",
+                         "attributes":  {
+                                            "org.gradle.category":  "documentation",
+                                            "org.gradle.dependency.bundling":  "external",
+                                            "org.gradle.docstype":  "sources",
+                                            "org.gradle.usage":  "java-runtime"
+                                        },
+                         "files":  [
+                                       {
+                                           "name":  "mcef-fabric-2.1.7-1.21.6-sources.jar",
+                                           "url":  "mcef-fabric-2.1.7-1.21.6-sources.jar",
+                                           "size":  198043,
+                                           "sha512":  "2f1c0f1d36be6da929f09b1fe1831ace179a0f7bf0da927230ba2d7e37607f2141908c1c2e0291340a53b89cb11cbfd2695a9154b8446c72f19b003f7f2e583d",
+                                           "sha256":  "d9b62fbdef560bfcde05b215127ee22ef34993def9d1cf64e2f45bd1f4796798",
+                                           "sha1":  "08675bd86f2d86b796d07902eddc65ac88bb3651",
+                                           "md5":  "923e073d75c7ac55c84cafcbf1b45fec"
+                                       }
+                                   ]
+                     }
+                 ]
+}
