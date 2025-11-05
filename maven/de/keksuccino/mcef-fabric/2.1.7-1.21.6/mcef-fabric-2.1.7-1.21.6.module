@@ -27,11 +27,11 @@
         {
           "name": "mcef-fabric-2.1.7-1.21.6.jar",
           "url": "mcef-fabric-2.1.7-1.21.6.jar",
-          "size": 227056,
-          "sha512": "14708bffde4d7fec6088e7814cd84c8742d43f0f17dc4cabc01aeb7c6026111d90196d0406410b3b7e9091885730b227a3a49a9b82836281045f26f7677fc0fe",
-          "sha256": "3e47aa049365c1f9dd586c895bf243abd707be032d60f7719765e2f551b999e2",
-          "sha1": "fe282b9cea1128c796a7ae89f584253f547421dd",
-          "md5": "725659de2712b4798d8e09b395f37718"
+          "size": 227057,
+          "sha512": "3825911998e5dbb592777712ef4f0ae30f294db7ad1355c639ba23718232ff31b9c19929ac9de892ac784cd7ad8aa0840aefcc8936c3784a457e76d2fceacb4a",
+          "sha256": "415a4f8207ce41136054fbf8bf0ef61dfa2d1edfae30233af4dda940b6ae7e2e",
+          "sha1": "45644a69b2a0e04be2d841ca8bcd17371f64d760",
+          "md5": "9675fac3ae1e4c689d8db07922f9c70a"
         }
       ]
     },
@@ -46,7 +46,7 @@
       },
       "dependencies": [
         {
-          "group": "com.cinemamod",
+          "group": "de.keksuccino",
           "module": "mcef",
           "version": {
             "requires": "2.1.7-1.21.6"
@@ -106,11 +106,11 @@
         {
           "name": "mcef-fabric-2.1.7-1.21.6.jar",
           "url": "mcef-fabric-2.1.7-1.21.6.jar",
-          "size": 227056,
-          "sha512": "14708bffde4d7fec6088e7814cd84c8742d43f0f17dc4cabc01aeb7c6026111d90196d0406410b3b7e9091885730b227a3a49a9b82836281045f26f7677fc0fe",
-          "sha256": "3e47aa049365c1f9dd586c895bf243abd707be032d60f7719765e2f551b999e2",
-          "sha1": "fe282b9cea1128c796a7ae89f584253f547421dd",
-          "md5": "725659de2712b4798d8e09b395f37718"
+          "size": 227057,
+          "sha512": "3825911998e5dbb592777712ef4f0ae30f294db7ad1355c639ba23718232ff31b9c19929ac9de892ac784cd7ad8aa0840aefcc8936c3784a457e76d2fceacb4a",
+          "sha256": "415a4f8207ce41136054fbf8bf0ef61dfa2d1edfae30233af4dda940b6ae7e2e",
+          "sha1": "45644a69b2a0e04be2d841ca8bcd17371f64d760",
+          "md5": "9675fac3ae1e4c689d8db07922f9c70a"
         }
       ]
     },
@@ -127,10 +127,10 @@
           "name": "mcef-fabric-2.1.7-1.21.6-shadow-dev.jar",
           "url": "mcef-fabric-2.1.7-1.21.6-shadow-dev.jar",
           "size": 220555,
-          "sha512": "358e71add09a05f4c5711a90cba8e83a98b2a1e034fca39ac3fbc9960a09599dee703c736381d22a4eacbf3c8deb9b92a17726c5c97b30eeec4bacb92e1c8a50",
-          "sha256": "8e27b25f508cf2544afa0bd0c4ff7f13de3090b33e4f5bcc4b00b1c20eb2670e",
-          "sha1": "9c102cab541f4b0cfc6f2209ebde65e1d6aa9d25",
-          "md5": "a06a20c0cf8b6665c9d39fa953cad347"
+          "sha512": "ab8182933c7530f45543e20af1adb49c68216c4baf1d24936c8fdcd76fc0d0d4d81f577e612efd1185b552780ba206fa38145dc810f3b9ddb6d167f8b4c24ecf",
+          "sha256": "737152a90b4f89fa6cff7cef27dcf5e42d223616c8905fd70b3a81fdedc51584",
+          "sha1": "7a859c66ce4191a6b8b6bb51a20aefc6b8d79b3b",
+          "md5": "6ab20bd82a85b0c391d3ad8ef68eed62"
         }
       ]
     },
@@ -147,10 +147,10 @@
           "name": "mcef-fabric-2.1.7-1.21.6-sources.jar",
           "url": "mcef-fabric-2.1.7-1.21.6-sources.jar",
           "size": 198043,
-          "sha512": "691b4b988c4bda3a5141b543d2e7d09c6917abedbc2d32df29d89847ba5a918e59da482787be83bc57c80d855bd19801095d7e8f346030ec1b6bd7cf95cd26b0",
-          "sha256": "de3ed17bb6022c2ee7599183e353e62d1ed6fff89c96c5c693c91cdda7dede10",
-          "sha1": "7418823a9ca8e753e997bc934b657ef3a9b7c8c8",
-          "md5": "3ad61cd0ff3e3613ce57b0b00433d191"
+          "sha512": "864129788af94303a1821e1e4d9c259ddf61858ba964f338dc905763ce5fe52d57bdbc1d6aee4673c2beae5ab40773b27d35e475317b53d8547d2e3fdb657c31",
+          "sha256": "4320c3734e897b5c072f1fe15589534cf4b66d4e78e52ff996410627c961b717",
+          "sha1": "73e81b8a15fe5245936a557cd092241c3b8a94ca",
+          "md5": "cbdbc9a98fc34ed586d3acaf1824eadb"
         }
       ]
     }

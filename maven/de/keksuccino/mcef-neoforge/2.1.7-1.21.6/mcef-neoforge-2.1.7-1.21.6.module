@@ -28,10 +28,10 @@
           "name": "mcef-neoforge-2.1.7-1.21.6.jar",
           "url": "mcef-neoforge-2.1.7-1.21.6.jar",
           "size": 220401,
-          "sha512": "b34695284237c22e72633520b3107fb68eddc46fce62f372eafc36ae1956dbe060fa83f6b1b7c272a60cd98d7f11a8064bd2e36a209449307c5cf47bf0755647",
-          "sha256": "a07fa6e5cce7ecdcdb9346d5db01853052b44d3659bcebbbe31a96b0a50cea97",
-          "sha1": "04947c4006f1c0d2f04a4a74d5173befac19b1d4",
-          "md5": "dcb48007f79f228092d74274a3a263ad"
+          "sha512": "f11ffca7ed48d7024c4554200c15196e4363409aa0515a5b5070c37febd7d9be575214dbe105e1efacf13c258e2b75710038e6c54d5073b2386f2083715aef72",
+          "sha256": "07de3674ff3362f33706c6206df08cd2283354a7d4f8854f1da84b50985f4695",
+          "sha1": "a10285032200050f0e724e73b2f014a08299b332",
+          "md5": "c49609718ed835491274d50558356270"
         }
       ]
     },
@@ -46,7 +46,7 @@
       },
       "dependencies": [
         {
-          "group": "com.cinemamod",
+          "group": "de.keksuccino",
           "module": "mcef",
           "version": {
             "requires": "2.1.7-1.21.6"
@@ -64,10 +64,10 @@
           "name": "mcef-neoforge-2.1.7-1.21.6.jar",
           "url": "mcef-neoforge-2.1.7-1.21.6.jar",
           "size": 220401,
-          "sha512": "b34695284237c22e72633520b3107fb68eddc46fce62f372eafc36ae1956dbe060fa83f6b1b7c272a60cd98d7f11a8064bd2e36a209449307c5cf47bf0755647",
-          "sha256": "a07fa6e5cce7ecdcdb9346d5db01853052b44d3659bcebbbe31a96b0a50cea97",
-          "sha1": "04947c4006f1c0d2f04a4a74d5173befac19b1d4",
-          "md5": "dcb48007f79f228092d74274a3a263ad"
+          "sha512": "f11ffca7ed48d7024c4554200c15196e4363409aa0515a5b5070c37febd7d9be575214dbe105e1efacf13c258e2b75710038e6c54d5073b2386f2083715aef72",
+          "sha256": "07de3674ff3362f33706c6206df08cd2283354a7d4f8854f1da84b50985f4695",
+          "sha1": "a10285032200050f0e724e73b2f014a08299b332",
+          "md5": "c49609718ed835491274d50558356270"
         }
       ]
     },
@@ -84,10 +84,10 @@
           "name": "mcef-neoforge-2.1.7-1.21.6.jar",
           "url": "mcef-neoforge-2.1.7-1.21.6.jar",
           "size": 220401,
-          "sha512": "5175d71a79f80937bcf3e0f751df6853cd3579355d53a7d3c988da6583161ad01529d75ff52b2131292c31357b9cb0c57423d0af1d84475b92508f28a666f3b0",
-          "sha256": "ad224f67dafd86257c6eab660c742a1a3aac4ec4f04e7a34c9deabc937cd2ece",
-          "sha1": "62c4c8d737733bbd4ccfdc46bdc2afebf5ba661c",
-          "md5": "204a3888859b7a8836f4d763ff90925b"
+          "sha512": "a1cd960ab4bc59cae5e8bf54bc7582365b1f00594c287d41272973cc09a9e1d59a76251778921de8b14acb3d90abf1788563f1eaa43263e75363568f7e44f55d",
+          "sha256": "e9152e4a4fb74b744a809125b625e327376e208f923c8f2b3208915acb62654e",
+          "sha1": "d3f7b4eec09f5ef3f3c4473c09f46794681e7708",
+          "md5": "faacaa0d8bebffe4ee2222fcffc144a5"
         }
       ]
     },
