@@ -1,0 +1,80 @@
+﻿{
+    "formatVersion":  "1.1",
+    "component":  {
+                      "group":  "de.keksuccino",
+                      "module":  "mcef-forge",
+                      "version":  "2.2.0-1.20.1",
+                      "attributes":  {
+                                         "org.gradle.status":  "release"
+                                     }
+                  },
+    "createdBy":  {
+                      "gradle":  {
+                                     "version":  "8.11.1"
+                                 }
+                  },
+    "variants":  [
+                     {
+                         "name":  "apiElements",
+                         "attributes":  {
+                                            "org.gradle.category":  "library",
+                                            "org.gradle.dependency.bundling":  "external",
+                                            "org.gradle.jvm.version":  17,
+                                            "org.gradle.libraryelements":  "jar",
+                                            "org.gradle.usage":  "java-api"
+                                        },
+                         "files":  [
+                                       {
+                                           "name":  "mcef-forge-2.2.0-1.20.1.jar",
+                                           "url":  "mcef-forge-2.2.0-1.20.1.jar",
+                                           "size":  267877,
+                                           "sha512":  "ab842210ecbfaf69fb27a63fa1f41149615a6ed75e964e98e7986c8c74773c5d02ae07e69bcd0fe45a8b84e0b480d6b35244c8b9f2ae5e553a92a04950975eef",
+                                           "sha256":  "1524011acdaefb10d04247589539b2a99105a33d6ab65a403debf3f040bd83a7",
+                                           "sha1":  "192f05d223d57cc9b21208a1b337b4acfc6515ad",
+                                           "md5":  "3da7b804aa15b4721948a47d929dbad8"
+                                       }
+                                   ]
+                     },
+                     {
+                         "name":  "runtimeElements",
+                         "attributes":  {
+                                            "org.gradle.category":  "library",
+                                            "org.gradle.dependency.bundling":  "external",
+                                            "org.gradle.jvm.version":  17,
+                                            "org.gradle.libraryelements":  "jar",
+                                            "org.gradle.usage":  "java-runtime"
+                                        },
+                         "files":  [
+                                       {
+                                           "name":  "mcef-forge-2.2.0-1.20.1.jar",
+                                           "url":  "mcef-forge-2.2.0-1.20.1.jar",
+                                           "size":  267877,
+                                           "sha512":  "ab842210ecbfaf69fb27a63fa1f41149615a6ed75e964e98e7986c8c74773c5d02ae07e69bcd0fe45a8b84e0b480d6b35244c8b9f2ae5e553a92a04950975eef",
+                                           "sha256":  "1524011acdaefb10d04247589539b2a99105a33d6ab65a403debf3f040bd83a7",
+                                           "sha1":  "192f05d223d57cc9b21208a1b337b4acfc6515ad",
+                                           "md5":  "3da7b804aa15b4721948a47d929dbad8"
+                                       }
+                                   ]
+                     },
+                     {
+                         "name":  "sourcesElements",
+                         "attributes":  {
+                                            "org.gradle.category":  "documentation",
+                                            "org.gradle.dependency.bundling":  "external",
+                                            "org.gradle.docstype":  "sources",
+                                            "org.gradle.usage":  "java-runtime"
+                                        },
+                         "files":  [
+                                       {
+                                           "name":  "mcef-forge-2.2.0-1.20.1-sources.jar",
+                                           "url":  "mcef-forge-2.2.0-1.20.1-sources.jar",
+                                           "size":  202835,
+                                           "sha512":  "b88769e06bf64fae8b84ed8c8d7276d2448e53b1f36a7f87ccb3b55722ef65b8e728127fdf7d58fcea1946bbb80a497c9675930349c90d28c1652b3c824d1320",
+                                           "sha256":  "57c65fc5f251f89e731ac88e0a8f75c49e5e6eb281e76039ce5731e3d9d8441d",
+                                           "sha1":  "d474528ddc277759c1e9ea21922bf8a8e81e4394",
+                                           "md5":  "789683098037043cced4bfc11540579e"
+                                       }
+                                   ]
+                     }
+                 ]
+}
