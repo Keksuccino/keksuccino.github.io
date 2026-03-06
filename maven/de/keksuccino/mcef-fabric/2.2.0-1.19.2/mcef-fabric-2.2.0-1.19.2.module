@@ -1,0 +1,80 @@
+﻿{
+    "formatVersion":  "1.1",
+    "component":  {
+                      "group":  "de.keksuccino",
+                      "module":  "mcef-fabric",
+                      "version":  "2.2.0-1.19.2",
+                      "attributes":  {
+                                         "org.gradle.status":  "release"
+                                     }
+                  },
+    "createdBy":  {
+                      "gradle":  {
+                                     "version":  "8.11.1"
+                                 }
+                  },
+    "variants":  [
+                     {
+                         "name":  "apiElements",
+                         "attributes":  {
+                                            "org.gradle.category":  "library",
+                                            "org.gradle.dependency.bundling":  "external",
+                                            "org.gradle.jvm.version":  17,
+                                            "org.gradle.libraryelements":  "jar",
+                                            "org.gradle.usage":  "java-api"
+                                        },
+                         "files":  [
+                                       {
+                                           "name":  "mcef-fabric-2.2.0-1.19.2.jar",
+                                           "url":  "mcef-fabric-2.2.0-1.19.2.jar",
+                                           "size":  452369,
+                                           "sha512":  "d0f687ccb62d7a1fd1d3c1be117b5f0bf9d71bccb1bac94f043fda808f2d9deb123fca8de36473483148b75bc4b4a1654aee1e62987bc96768ac0177e2aa03b6",
+                                           "sha256":  "91ece394883edc41a473d4ecf9252171ac24521a3871c3016ca3e290d50bb4e3",
+                                           "sha1":  "29983fa83c86b392ccb88d97a691a8063d2d8a18",
+                                           "md5":  "efaf2325050367de768511f4adc9e5d6"
+                                       }
+                                   ]
+                     },
+                     {
+                         "name":  "runtimeElements",
+                         "attributes":  {
+                                            "org.gradle.category":  "library",
+                                            "org.gradle.dependency.bundling":  "external",
+                                            "org.gradle.jvm.version":  17,
+                                            "org.gradle.libraryelements":  "jar",
+                                            "org.gradle.usage":  "java-runtime"
+                                        },
+                         "files":  [
+                                       {
+                                           "name":  "mcef-fabric-2.2.0-1.19.2.jar",
+                                           "url":  "mcef-fabric-2.2.0-1.19.2.jar",
+                                           "size":  452369,
+                                           "sha512":  "d0f687ccb62d7a1fd1d3c1be117b5f0bf9d71bccb1bac94f043fda808f2d9deb123fca8de36473483148b75bc4b4a1654aee1e62987bc96768ac0177e2aa03b6",
+                                           "sha256":  "91ece394883edc41a473d4ecf9252171ac24521a3871c3016ca3e290d50bb4e3",
+                                           "sha1":  "29983fa83c86b392ccb88d97a691a8063d2d8a18",
+                                           "md5":  "efaf2325050367de768511f4adc9e5d6"
+                                       }
+                                   ]
+                     },
+                     {
+                         "name":  "sourcesElements",
+                         "attributes":  {
+                                            "org.gradle.category":  "documentation",
+                                            "org.gradle.dependency.bundling":  "external",
+                                            "org.gradle.docstype":  "sources",
+                                            "org.gradle.usage":  "java-runtime"
+                                        },
+                         "files":  [
+                                       {
+                                           "name":  "mcef-fabric-2.2.0-1.19.2-sources.jar",
+                                           "url":  "mcef-fabric-2.2.0-1.19.2-sources.jar",
+                                           "size":  217902,
+                                           "sha512":  "e4b42e6c694361291274da50e8e179d808241587a3c244d346f23cb7f43827309c14963997ab08ba96c473c1a99ebb65cb09e1ac5f27d7c37396f1b369608a0d",
+                                           "sha256":  "88b269ba3c2f8f8c03fc58c041c6b120a69a56ad6a49e836419e4ae3d634d330",
+                                           "sha1":  "1e7128219f45db2205b3471b1bc314f8854ac825",
+                                           "md5":  "f5a5e83e0024b3528a3d394d62192aaa"
+                                       }
+                                   ]
+                     }
+                 ]
+}
