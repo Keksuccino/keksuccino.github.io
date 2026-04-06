@@ -1,0 +1,75 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "de.keksuccino",
+    "module": "mcef-fabric",
+    "version": "2.2.0-26.1.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "mcef-fabric-2.2.0-26.1.1.jar",
+          "url": "mcef-fabric-2.2.0-26.1.1.jar",
+          "size": 453664,
+          "sha512": "d6f59ec5997b0df54fe3f2a7c7fa603fcf372fe31b6d464650398ce92488c916bd2bbcc83b219b180c975b12a0b04d731f002c8244383ebdbfa2802284c0f740",
+          "sha256": "566d033e9818651e13a618622990cd41cc120811db744e45bd7b0497e6d1e964",
+          "sha1": "3168366b5cfce5302a53635674dcee443bb7eeca",
+          "md5": "8b30a1233ce96f1edc728a2e7adb2d6e"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "mcef-fabric-2.2.0-26.1.1.jar",
+          "url": "mcef-fabric-2.2.0-26.1.1.jar",
+          "size": 453664,
+          "sha512": "d6f59ec5997b0df54fe3f2a7c7fa603fcf372fe31b6d464650398ce92488c916bd2bbcc83b219b180c975b12a0b04d731f002c8244383ebdbfa2802284c0f740",
+          "sha256": "566d033e9818651e13a618622990cd41cc120811db744e45bd7b0497e6d1e964",
+          "sha1": "3168366b5cfce5302a53635674dcee443bb7eeca",
+          "md5": "8b30a1233ce96f1edc728a2e7adb2d6e"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "mcef-fabric-2.2.0-26.1.1-sources.jar",
+          "url": "mcef-fabric-2.2.0-26.1.1-sources.jar",
+          "size": 205467,
+          "sha512": "1136ef908086c681cc4170a66dc806b5e63038e98d80704b1659cd88fe0124e583fe324eb8ff1dcbf3b3b86eb07c1586f86a21bfc037174acfb64b75e1216cc9",
+          "sha256": "3f7fd95bc97149b48567eec1698bf43390809dbe47b1eb424db2ce508fafe887",
+          "sha1": "cc30c2542f1baaae335bdcdb2ceee8776c3b7300",
+          "md5": "3c4e44a31916bc865df142310ed22007"
+        }
+      ]
+    }
+  ]
+}

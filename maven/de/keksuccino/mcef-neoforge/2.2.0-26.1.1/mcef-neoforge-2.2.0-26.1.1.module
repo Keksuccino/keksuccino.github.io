@@ -1,0 +1,75 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "de.keksuccino",
+    "module": "mcef-neoforge",
+    "version": "2.2.0-26.1.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "mcef-neoforge-2.2.0-26.1.1.jar",
+          "url": "mcef-neoforge-2.2.0-26.1.1.jar",
+          "size": 265717,
+          "sha512": "13aceb9a5673940185d92612e20af174ba587354e5abfb7610555b5a71520cf8d4fa1cfa05d117cbacb8271d47c2274c865f07a126eb5c49a8c28c6b5b7d7385",
+          "sha256": "7043d21c4deaf4149401aa4d1761b73ca63386874c0c5ce1fa80d6ae601e65d0",
+          "sha1": "4aa2bdeaadcec4f127377aafe1182613cd2c02ae",
+          "md5": "88a01fb393472ff70b8b8a4ea249fa1d"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "mcef-neoforge-2.2.0-26.1.1.jar",
+          "url": "mcef-neoforge-2.2.0-26.1.1.jar",
+          "size": 265717,
+          "sha512": "13aceb9a5673940185d92612e20af174ba587354e5abfb7610555b5a71520cf8d4fa1cfa05d117cbacb8271d47c2274c865f07a126eb5c49a8c28c6b5b7d7385",
+          "sha256": "7043d21c4deaf4149401aa4d1761b73ca63386874c0c5ce1fa80d6ae601e65d0",
+          "sha1": "4aa2bdeaadcec4f127377aafe1182613cd2c02ae",
+          "md5": "88a01fb393472ff70b8b8a4ea249fa1d"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "mcef-neoforge-2.2.0-26.1.1-sources.jar",
+          "url": "mcef-neoforge-2.2.0-26.1.1-sources.jar",
+          "size": 206296,
+          "sha512": "837f34c0e1fa348a8c4c59ea59bbda36187d943c7d662bea31f8759d90680f99af8505d6e634ad309d429e92f71a4c18fd4dfc00fc869e5b2c67889ef7991359",
+          "sha256": "30284324a87dfa434af4684b515e2d4401957caf6e8af006ead7793c4267dda3",
+          "sha1": "ee2001ff40fb37c825abbe705ed9db616ca84ca0",
+          "md5": "5dba9ac4f686d83bfe2cb7ae4ebed516"
+        }
+      ]
+    }
+  ]
+}
