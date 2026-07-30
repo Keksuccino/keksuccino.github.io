@@ -1,0 +1,75 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "de.keksuccino",
+    "module": "rinku-fabric",
+    "version": "3.0.0-1.19.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "rinku-fabric-3.0.0-1.19.2.jar",
+          "url": "rinku-fabric-3.0.0-1.19.2.jar",
+          "size": 824828,
+          "sha512": "5cff744eb2486a7c8dfc3644d1011689c0769fb804da73837a03b725a5eaccf2d5afd08d43c8ed5ffbd6b70f71bd6483de32004b509db9ede8508dd6a657bd30",
+          "sha256": "d010404c982c8be1f0a6447ad92766f585f3f9300250c9f89657a50178f7e358",
+          "sha1": "61185909b06890b98de68c892488e6d17dec9fd2",
+          "md5": "2c657c53ca95acfd5a9b7a256071f451"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "rinku-fabric-3.0.0-1.19.2.jar",
+          "url": "rinku-fabric-3.0.0-1.19.2.jar",
+          "size": 824828,
+          "sha512": "5cff744eb2486a7c8dfc3644d1011689c0769fb804da73837a03b725a5eaccf2d5afd08d43c8ed5ffbd6b70f71bd6483de32004b509db9ede8508dd6a657bd30",
+          "sha256": "d010404c982c8be1f0a6447ad92766f585f3f9300250c9f89657a50178f7e358",
+          "sha1": "61185909b06890b98de68c892488e6d17dec9fd2",
+          "md5": "2c657c53ca95acfd5a9b7a256071f451"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "rinku-fabric-3.0.0-1.19.2-sources.jar",
+          "url": "rinku-fabric-3.0.0-1.19.2-sources.jar",
+          "size": 425461,
+          "sha512": "775da3e4362726b4a49c453c77da3a3f6cd62e1058001ab3f03b987bd060e32e989fd8f8c53c930da635c6242181b9c48256835901c8b44fe2b7ce5fb7150d39",
+          "sha256": "bb38d5b2dcbee213b96c543d4df5f25573c327c94649bb86ba5862947a32e959",
+          "sha1": "109bc641ff52eb141e5615772da21b058f565591",
+          "md5": "68c7b4194af14c1553ef8ec1860a79c0"
+        }
+      ]
+    }
+  ]
+}

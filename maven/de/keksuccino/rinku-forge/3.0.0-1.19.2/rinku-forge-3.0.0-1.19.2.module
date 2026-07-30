@@ -1,0 +1,75 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "de.keksuccino",
+    "module": "rinku-forge",
+    "version": "3.0.0-1.19.2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "rinku-forge-3.0.0-1.19.2.jar",
+          "url": "rinku-forge-3.0.0-1.19.2.jar",
+          "size": 817437,
+          "sha512": "01ccc2194404c67160cdd27311244aa3fd440678d48ae347c80edc603a59b812a3c2e33e4f6ad40fadc82878adf573e53b8d86aacd4de8092efc3a512a157ca7",
+          "sha256": "7b6dfdafe234288c2a158b27aef45029ee46a2b42f43c5db28247d4b536249c6",
+          "sha1": "b453962fbfacf24e34d5b3b4f40bfe8efffd42ba",
+          "md5": "fd66ed9bb1cbaddefd7afb4b6e52c51a"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "rinku-forge-3.0.0-1.19.2.jar",
+          "url": "rinku-forge-3.0.0-1.19.2.jar",
+          "size": 817437,
+          "sha512": "01ccc2194404c67160cdd27311244aa3fd440678d48ae347c80edc603a59b812a3c2e33e4f6ad40fadc82878adf573e53b8d86aacd4de8092efc3a512a157ca7",
+          "sha256": "7b6dfdafe234288c2a158b27aef45029ee46a2b42f43c5db28247d4b536249c6",
+          "sha1": "b453962fbfacf24e34d5b3b4f40bfe8efffd42ba",
+          "md5": "fd66ed9bb1cbaddefd7afb4b6e52c51a"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "rinku-forge-3.0.0-1.19.2-sources.jar",
+          "url": "rinku-forge-3.0.0-1.19.2-sources.jar",
+          "size": 413662,
+          "sha512": "7feefebdada91f685234eacf3b45574899ba5dd1fc532594228f0f40c8011ce2ba2dad72eb814e3ae5e02be1a5ccd867dfb02bd120064574b8cf754f7e695e8d",
+          "sha256": "4e08a8beb8bbf79132faa35b9946fde7d2968b67292051dc095b0f66bd616c7a",
+          "sha1": "da6d14685984e174a99f46498f1b021061e9fb5c",
+          "md5": "d7c256eed18bd6edb2c021dffc3095f0"
+        }
+      ]
+    }
+  ]
+}
