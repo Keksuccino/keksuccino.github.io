@@ -1,0 +1,75 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "de.keksuccino",
+    "module": "rinku-neoforge",
+    "version": "3.0.4-1.21.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "rinku-neoforge-3.0.4-1.21.1.jar",
+          "url": "rinku-neoforge-3.0.4-1.21.1.jar",
+          "size": 617766,
+          "sha512": "a8a1062caeb039a8bf31bf9cf5c4b05c4927b686eb96ed9a6fad9bc044b402af2d15fa610b09ea08753397c48940435d72e4e41f659993a6233663e221a6af9e",
+          "sha256": "ffff686fc0ad4980ddb34903e21ba3c37033eaac1af8556ab1c94cab74096d03",
+          "sha1": "07c899480fa1540c76691726400ce9b903586d3b",
+          "md5": "17b897ec201eb9c2fdc9e72fe163d594"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "rinku-neoforge-3.0.4-1.21.1.jar",
+          "url": "rinku-neoforge-3.0.4-1.21.1.jar",
+          "size": 617766,
+          "sha512": "a8a1062caeb039a8bf31bf9cf5c4b05c4927b686eb96ed9a6fad9bc044b402af2d15fa610b09ea08753397c48940435d72e4e41f659993a6233663e221a6af9e",
+          "sha256": "ffff686fc0ad4980ddb34903e21ba3c37033eaac1af8556ab1c94cab74096d03",
+          "sha1": "07c899480fa1540c76691726400ce9b903586d3b",
+          "md5": "17b897ec201eb9c2fdc9e72fe163d594"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "rinku-neoforge-3.0.4-1.21.1-sources.jar",
+          "url": "rinku-neoforge-3.0.4-1.21.1-sources.jar",
+          "size": 419395,
+          "sha512": "f7224b755c1ac720c9ce13da6a935461e41db756a67a94ce43ad6057ac8178512e4326d5ebaee1a9231050ed177aa550e459e63e7c8c7411b8228ad94598fde4",
+          "sha256": "a1c34e722aa2f3b05478749afcf620494732b1718987a74239ada458a7d1867d",
+          "sha1": "97a4d358495d5b630f554357e22365c8525b6821",
+          "md5": "2836232950eace78fcebeddb98b42c53"
+        }
+      ]
+    }
+  ]
+}
